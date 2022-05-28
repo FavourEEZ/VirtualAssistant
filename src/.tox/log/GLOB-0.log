@@ -1,0 +1,3 @@
+action: GLOB, msg: packaging
+cwd: C:\Users\favou\Documents\University of Exeter\ECM2429 System Development 2\Workshops\Assignment - copy\Assignment\src
+cmd: 'C:\Users\favou\AppData\Local\Programs\Python\Python39\python.exe' setup.py sdist --formats=zip --dist-dir 'C:\Users\favou\Documents\University of Exeter\ECM2429 System Development 2\Workshops\Assignment - copy\Assignment\src\.tox\dist'

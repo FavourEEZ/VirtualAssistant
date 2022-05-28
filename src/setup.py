@@ -1,0 +1,1 @@
+extras_require={'test': ['pytest', 'pytest-watch', 'tox']}
